@@ -1,0 +1,41 @@
+{
+	"Welcome Back": "Welcome Back",
+	"theme": {
+		"dark":"dark",
+		"light": "light"
+	},
+	"button": {
+		"Log In": "Log In",
+		"Send Code": "Send Code",
+		"Verify number": "Verify number",
+		"Create account": "Create account",
+		"Make Request": "Make Request",
+		"Send":"Send",
+		"LogOut": "LogOut"
+	},
+	"name": "name",
+	"Email": "Email",
+	"password": "password",
+	"phone number": "phone number",
+	"Enter key": "Enter key",
+	"Create account": "Create account",
+	"Already have account ?": "Already have account ?",
+	"Create account with": "Create account with",
+	"OR": "OR",
+	"All Services": "All Services",
+	"Choose Your Technical": "Choose Your Technical",
+	"All  Orders":"All  Orders",
+	"Chat With Admin":"Chat With Admin",
+	"Order ID": "Order ID",
+	"Status ": "Status ",
+	"Type Message here": "Type Message here",
+	"language":"language",
+	"lang": {
+		"name": {
+			"en": "English",
+			"ar": "Arabic"
+		}
+	}
+
+
+}

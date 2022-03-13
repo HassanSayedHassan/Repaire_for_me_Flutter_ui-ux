@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530766872290",
+    "project_id": "repair-for-me",
+    "storage_bucket": "repair-for-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530766872290:android:063c603c72de1e4bfde8bb",
+        "android_client_info": {
+          "package_name": "com.example.repaire_for_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530766872290-eq80lpb4ffubheti0k1jqkr24b199pva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.repaire_for_me",
+            "certificate_hash": "c1dbd00c2a2f543f95f40ead9557b8f316d8fb41"
+          }
+        },
+        {
+          "client_id": "530766872290-pprmbomfi606lam6l6mqa1f7cmrigmh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG4o1elyhUR81eN_AJqeOwdxz706zrVn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530766872290-pprmbomfi606lam6l6mqa1f7cmrigmh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
